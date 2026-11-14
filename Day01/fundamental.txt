@@ -1,0 +1,7 @@
+Need of backend 
+Client Server Architecture
+IP Address
+PORT number
+DNS 
+How things work internally.
+First Server creation
