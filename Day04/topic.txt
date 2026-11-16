@@ -1,0 +1,6 @@
+soket Cnnection
+SYNC frontend Backend - 3way 
+SYNC SYNC ACK ACK TTL
+Soket Connection Terminate
+termination - 4way
+CRUD
