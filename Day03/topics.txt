@@ -1,0 +1,5 @@
+npm
+package.JSON -> MetaData
+version 5.2.1 major minor^ patch~
+package-lock.JSON
+security (integrity)
