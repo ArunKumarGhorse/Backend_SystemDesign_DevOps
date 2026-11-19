@@ -1,0 +1,13 @@
+Database?
+About MongoDB
+what if array used to store data, Time Com. CONS
+if LinkedListused to store data, Time Complexities in CRUD and CONS
+
+what if Binery Tree used, TC in CRUD, CONS
+
+what if AVL tree used to store data, TC in CRUD and CONS, disk read time *
+
+why B+Tree used and internal working, TC in CRUD
+how it reduce disk read count *
+
+ALL CONCEPTS USING "FIRST THOUGHT PRINCIPLE" AS ALWAYS
